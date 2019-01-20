@@ -634,6 +634,7 @@ private:
             if(entities()[id][i] != 0)
                 signature.insert(i);
         }
+
         return signature;
     }
 
